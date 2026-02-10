@@ -50,7 +50,7 @@ Com base na análise dos dados gerados:
 Pré-requisitos: Python instalado.
 ```bash
 # Clone este repositório
-git clone [https://github.com/SEU-USUARIO/monitoramento-qualidade-industrial.git](https://github.com/SEU-USUARIO/monitoramento-qualidade-industrial.git)
+git clone ( https://github.com/Caiolsiqueira/monitoramento-qualidade-industrial.git )
 
 # Instale as bibliotecas necessárias
 pip install pandas matplotlib numpy
